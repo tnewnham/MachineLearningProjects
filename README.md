@@ -19,5 +19,5 @@ This project was developed as a jupyter  using machine learning technologies
 This project uses data about customers at a bank. The data gathered was then used to build a model that determined the key traits that lead to the success of the campaign and allow future campaign to target customers that are most likely to purchase the product. 
 
 [MarketingProject Models Notebook](MarketingProjectModels.ipynb)
-![MarketingProject](public/MarketingProjectModel.jpg)
+![MarketingProject Models](public/MarketingProjectModel.jpg)
 
