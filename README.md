@@ -23,8 +23,8 @@ This project uses data about customers at a bank. The data gathered was then use
 
 Notebook that includes data-preprocessing for marketing project. Includes determining traits that are not relevant to the marketing campaign, removing outliers and data that would not be able to be fed into a ML model.
 
-[MarketingProject Pre-processing Notebook](MarketingProjectPre-Precessing.ipynb)!
-[MarketingProject Preprocessing](public/MarketingProjectPre-processing.JPG)
+[MarketingProject Pre-processing Notebook](MarketingProjectPre-Precessing.ipynb)
+![MarketingProject Preprocessing](public/MarketingProjectPre-processing.jpg)
 
 
 
