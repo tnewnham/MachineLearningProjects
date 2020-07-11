@@ -12,5 +12,5 @@ My passion lies in following modern best practices while exploring and implement
 This project was developed as a jupyter  using machine learning technologies
 
 [BankruptcyProject Notebook](BankruptcyProject.ipynb)
-![BankruptcyProject](public\BankruptcyProject.jpg)
+![BankruptcyProject](public/BankruptcyProject.jpg)
 
