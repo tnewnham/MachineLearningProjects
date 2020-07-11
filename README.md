@@ -31,7 +31,7 @@ Notebook that includes data-preprocessing for marketing project. Includes determ
 This project uses neural nets to create models that can assist doctors in diagnosing patients with lung cancer.
 
 [Cancer Diagnosis with Neural Nets Notebook](CanerDiagnosisWithNeuralNet.ipynb)
-![Cancer Diagnosis with Neural Nets](public\NeuralNetProject.jpg)
+![Cancer Diagnosis with Neural Nets](public/NeuralNetProject.jpg)
 
 
 
