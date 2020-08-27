@@ -54,5 +54,12 @@ This project uses neural nets to create models that can assist doctors in diagno
 [Cancer Diagnosis with Neural Nets Notebook](CancerDiagnosisWithNeuralNet.ipynb)
 ![Cancer Diagnosis with Neural Nets](public/NeuralNetProject.jpg)
 
+### Missing value imputation on a times series dataset
+
+This file will use an ExtraTreeRegressor model to impute missing values from a stock price data set. It is a relatively simple piece of code but it highlights a great method to convert a time series data set into a format that can be read my a machine learning model. 
+
+[Missing stock value imputation script](missingStockImputation.py)
+![Missing stock value imputation](public/stockImputation.jpg)
+
 
 
