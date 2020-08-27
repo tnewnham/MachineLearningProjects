@@ -22,7 +22,7 @@ Below you will see the code that trains the model.
 
 Here is a graphic that shows the branches of the random forest that lead to the predictions. This is a model that only use the the key metrics determined from the model using all metrics. This simpler model produces results with the same accuracy of the larger model and highlights one of the major benefits of using the random forest.
 
-![Random Forest Branch Visualization](public/BankruptcyProjectForestBranch.JPG)
+![Random Forest Branch Visualization](public/BankruptcyProjectForestBranchGraphic.JPG)
 
 ### Analysis of the Marketing Campaign
 
@@ -39,7 +39,7 @@ Below you will see the metrics used to evaluate the accuracy of the logarithmic 
 
 This is a graphic that shows the confusion matrix of a logarithmic regression model. Confusion matrixes show the false and true negative and positive predictions of the model. This is a useful metric to determine if the model suffers from over fitting due to an imbalanced data set or from variables included in the model that will skew the results. 
 
-![Logarithmic Confusion Matrix](public/confusionMatrixMarketingLogReg.jpg)
+![Logarithmic Confusion Matrix](public/confusionMartixMarketingLogReg.jpg)
 
 
 This notebook includes the steps used in the data-preprocessing phase of this project. The objective is to determine traits that are not relevant to the marketing campaign, remove outliers and data that would not be able to be fed into a ML model, balance the data set to avoid over fitting, and look for trends and correlations that would be useful in the analysis. The image shown is a short piece of code that will remove outliers from the data set using the interquartile range method. Identifying and removing outliers is an essential step to producing an accurate model. 
